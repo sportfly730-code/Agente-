@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!-- Cobertura ampla para compartilhar APKs/logs gerados pelo agente
+         via FileProvider (instalação de APKs reconstruídos). -->
+    <root-path name="root" path="." />
+    <external-path name="external_storage" path="." />
+    <external-path name="codex_projects" path="CodexProjects/" />
+    <external-path name="codex_bridge" path=".codex_agent_bridge/" />
+    <external-files-path name="external_files" path="." />
+    <files-path name="internal_files" path="." />
+    <files-path name="internal_usr" path="usr/" />
+    <files-path name="internal_codex" path="codex/" />
+    <cache-path name="cache" path="." />
+    <external-cache-path name="external_cache" path="." />
+</paths>

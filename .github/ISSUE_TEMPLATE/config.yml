@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 Discussões
+    url: https://github.com/imperialshoprj-pixel/CodexAgent/discussions
+    about: Tirar dúvidas, compartilhar ideias e conversar com a comunidade
+  - name: 📖 Documentação / Tutorial
+    url: https://github.com/imperialshoprj-pixel/CodexAgent#tutorial-do-zero-ao-agente-funcionando-passo-a-passo
+    about: Veja primeiro o README — a resposta pode estar lá
